@@ -18,7 +18,7 @@ function PaperWork() {
             </div>
         </div>
         <div className="card p-4 text-base">
-            <h2 className={"text-xl"}>Ações centralizada.</h2>
+            <h2 className={"text-xl"}>Ações centralizadas.</h2>
             <div className={"text-x text-slate-400"}>
                 <span className='text-slate-300 font-bold'>Faça:</span> As interfaces precisam ter uma zona central onde o usuário possa realizar todas as ações.
             </div>
