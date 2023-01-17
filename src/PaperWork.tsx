@@ -13,7 +13,7 @@ function PaperWork() {
         <h1 className="text-xl">PaperWork &copy; &middot; Guia para design de Interfaces <Link to={"/"}>Voltar</Link></h1>
         <div className="card p-4 text-base">
             <div className="p-3 text-slate-200">
-                PaperWork é uma especificação para design de interfaces desenvolvida pela DalmataWorks, representa nosso esforço e anos de desenvolvimento com foco em deixar interfaces mais humanas e amigáveis, se você chegou até aqui
+                PaperWork é uma especificação para design de interfaces desenvolvida pela DalmataWorks, representa nossos esforços e anos de desenvolvimento com foco em deixar interfaces mais humanas e amigáveis, se você chegou até aqui
                 é porque possui interesse em entender como as interfaces PaperWork funcionam, abaixo você confere um pouco mais sobre a especificação.
             </div>
         </div>
